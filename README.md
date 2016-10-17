@@ -42,4 +42,4 @@ The main map display is index.php and based on bootstrap.js.
 
 Used fixed xml file for the data that has the addresses already geo-coded
 
-~~There are a number of bak named files. They will be cleaned up shortly.
+~~There are a number of bak named files. They will be cleaned up shortly.~~
