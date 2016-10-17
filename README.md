@@ -18,3 +18,10 @@ With a heat map at
 
 http://web-pblotter-v1-elb-1058384347.us-west-2.elb.amazonaws.com/SQLCrashData/CrashHeatMap.php
 
+## Change requests
+
+1) Display by year
+
+2) Display by severity
+
+3) Better GUI
