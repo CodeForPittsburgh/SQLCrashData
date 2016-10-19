@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="css/bootstrap.css">
         <script src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCb3EA0lfao273s6Jkp8tfTzJfUSkswpOw&libraries=visualization"></script>
         <script src="js/crashmap.js"></script>
+        <script src ="js/BikeRentalLocation.js"></script>
 
 
         <style>
@@ -50,7 +51,9 @@
                             <br>
                             Killed <img title="Killed" src="./img/mm_20_star.png" alt="Killed" >
                             <br>
-                            Biking trails colors show you the type of bicycling paths.
+                            Rental Locations <img title="Rentals" src="./img/bicycle.ico" alt="Bike">
+                            <br>
+                            <b>Biking trails colors show you the type of bicycling paths.</b>
                             <br>
                             Dark green: Trails that don't have auto traffic.
                             <br>
