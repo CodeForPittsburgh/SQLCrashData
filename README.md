@@ -28,6 +28,8 @@ http://web-pblotter-v1-elb-1058384347.us-west-2.elb.amazonaws.com/SQLCrashData/C
 
 4) Like to merge the county and city json shape data to allow the city neighborhoods to work during the mouse roll-over.
 
+5) Handle adding/removing layers (bike,county,city neighborhoods... etc)
+
 
 ## Application notes
 
@@ -43,3 +45,13 @@ The main map display is index.php and based on bootstrap.js.
 Used fixed xml file for the data that has the addresses already geo-coded
 
 ~~There are a number of bak named files. They will be cleaned up shortly.~~
+
+## Change list
+
+Removed color for maps. It was difficult to determine the bike map layer colors
+
+Removed the City Neighborhood layer until I can get the mouse over to display neighborhood name
+
+Added bike rental location with bike icon and click gets location and rack count
+
+
