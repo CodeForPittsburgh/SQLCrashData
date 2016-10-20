@@ -59,4 +59,6 @@ Removed the City Neighborhood layer until I can get the mouse over to display ne
 
 Added bike rental location with bike icon and click gets location and rack count
 
+I know we don't control the bike layer line colors, but as a color-blind person I can't tell my dark green, green and brown lines
+
 
