@@ -24,7 +24,7 @@
                 background-color: #eeeeee;
                 border: 2px solid black;
                 bottom: 125px;
-                height: 40px;
+                height: 60px;
                 padding: 10px;
                 float:left;
             }
