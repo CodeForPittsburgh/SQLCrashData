@@ -12,12 +12,6 @@ and uses only Bike Crash information
 
 This is a work in progress.
 
-http://web-pblotter-v1-elb-1058384347.us-west-2.elb.amazonaws.com/SQLCrashData/
-
-With a heat map at
-
-http://web-pblotter-v1-elb-1058384347.us-west-2.elb.amazonaws.com/SQLCrashData/CrashHeatMap.php
-
 Bike rental locations from
 
 https://healthyridepgh.com/data/
